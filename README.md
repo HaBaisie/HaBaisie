@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I'm Much more interested in writing code and Building project to ease the day to day activities of Human \t
-Member: Google developer Group, sokoto, Google Developer Student Club, Usmanu Danfodiyo University sokoto. 
+
+Member: Google developer Group, sokoto, Google Developer Student Club, Usmanu Danfodiyo University sokoto. \t
+
 🔭 I’m currently working on Ecommerce Django project that Allow Customers to order for goods and services. Delivey is done by Drone Technology
 🌱 I’m currently learning an Aspect of AI known as Machine Learning
 👯 I’m looking to collaborate With other Django developers to More Projects and to Build and learn more

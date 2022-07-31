@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: Passion to learn, Relearn and inpact in the Society..
 -->
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=habaisie)
+

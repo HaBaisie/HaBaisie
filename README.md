@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**HaBaisie/HaBaisie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 🔭 I'm Much more interested in writing code and Building project to ease the day to day activities of Human
 Member: Google developer Group, sokoto, Google Developer Student Club, Usmanu Danfodiyo University sokoto. 
 🔭 I’m currently working on Ecommerce Django project that Allow Customers to order for goods and services. Delivey is done by Drone Technology
